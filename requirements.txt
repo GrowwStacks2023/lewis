@@ -1,6 +1,6 @@
-python
-selenium
-uvicorn
-flask
-requests
-web-driver
+python==3.10
+fastapi==0.95.0
+selenium==4.8.0
+uvicorn==0.22.0
+requests==2.28.1
+webdriver-manager==4.9.0
