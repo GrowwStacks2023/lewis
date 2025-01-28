@@ -3,4 +3,4 @@ selenium
 uvicorn
 flask
 requests
-
+web-driver
